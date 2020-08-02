@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north":	{ "model": "nobamod2:block/noba_ore" },
+    "facing=south":	{ "model": "nobamod2:block/noba_ore", "y": 180 },
+    "facing=west":	{ "model": "nobamod2:block/noba_ore", "y": 270 },
+    "facing=east":	{ "model": "nobamod2:block/noba_ore", "y": 90 }
+  }
+}

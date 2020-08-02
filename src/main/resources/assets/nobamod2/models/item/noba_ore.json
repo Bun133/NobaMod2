@@ -1,0 +1,6 @@
+{
+  "parent": "nobamod2:block/noba_ore",
+  "textures": {
+    "layer0": "nobamod:items/nobaore"
+  }
+}
